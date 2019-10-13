@@ -1,0 +1,24 @@
+1. What is the average number of trials it took you to break pre-image resistance based on
+15 experiments where n=2?
+using hex value 'deadbeef'
+
+48060.06667
+
+
+
+
+2. What is the average number of trials it took you to break collision-resistance based on 15
+experiments where n=2?
+
+311.333
+
+
+
+3. Is it easier to find a collision or find a pre-image using brute force?
+
+Collision
+
+
+
+
+Side Note: Big thanks to the TAs with this assignment ya'll were a big help
